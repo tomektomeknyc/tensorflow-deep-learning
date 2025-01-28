@@ -21,9 +21,17 @@ ib_insync
 ipython>=8.12.0
 jupyter>=1.0.0
 seaborn>=0.11.2
-typing_extensions==4.5.0
+# Core dependencies
+tensorflow>=2.13.0
+seaborn>=0.13.2
+pandas>=2.0.0
+numpy>=1.24.0
+# Specific typing_extensions version to fix compatibility issue
+typing_extensions>=4.5.0
+jupyterlab>=4.0.0
+notebook>=7.0.0
+matplotlib>=3.0.0
 openpyxl
 tensorflow==2.13.0
-typing_extensions
 
 
