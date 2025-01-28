@@ -21,6 +21,8 @@ ib_insync
 ipython>=8.12.0
 jupyter>=1.0.0
 seaborn>=0.11.2
+typing_extensions==4.5.0
+
 
 openpyxl
 tensorflow==2.13.0
