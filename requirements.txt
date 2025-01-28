@@ -19,4 +19,6 @@ pandas
 yfinance
 ib_insync
 openpyxl
+tensorflow==2.13.0
+
 
